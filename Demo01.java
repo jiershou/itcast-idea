@@ -12,5 +12,6 @@ public class Demo01 {
         System.out.println("阿瑟东2");
         System.out.println("阿瑟东3");
         System.out.println("阿瑟东dev");
+         System.out.println("阿瑟东other");
     }
 }
