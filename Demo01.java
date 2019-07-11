@@ -9,5 +9,6 @@ package cn.itheima.git;
 public class Demo01 {
     public static void main(String[] args) {
         System.out.println("阿瑟东");
+        System.out.println("阿瑟东2");
     }
 }
